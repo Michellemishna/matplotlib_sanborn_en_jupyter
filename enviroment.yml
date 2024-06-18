@@ -1,0 +1,13 @@
+name: base
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - conda[version='>=24.3.0']
+  - mamba[version='>=1.5.8']
+  - ipykernel
+  - matplotlib
+  - seaborn==0.13.2
+  - scipy
+prefix: /home/unixx/miniforge3
