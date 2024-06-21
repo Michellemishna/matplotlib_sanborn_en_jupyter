@@ -1,7 +1,7 @@
 
-# Matplotlib y Sanborn
+# Matplotlib y Seaborn
 
-En este repositorio encontraras un listado de notebooks que te llevaran de la mano a traves de los conceptos y funciones mas importantes de Matplotlib y Sanborn
+En este repositorio encontraras un listado de notebooks que te llevaran de la mano a traves de los conceptos y funciones mas importantes de Matplotlib y Seaborn
 
 Los paquetes que use en este codigo estan listados en el archivo enviroment.yml 
 Para instalar los requisitos usando conda, ejecute lo siguiente en la línea de comandos:
